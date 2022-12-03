@@ -12,7 +12,7 @@ public class Atleta {
     public Atleta(int numAtleta, String nombreAtleta, float tiempoCarrera) {
         this.numAtleta = numAtleta;
         this.nombreAtleta = nombreAtleta;
-        this.tiempoCarrera = tiempoCarrera;
+        this.tiempoCarrera = tiempoCarrera;//comentario nuevo
     }
 
     public float getTiempoCarrera() {
